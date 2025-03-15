@@ -1,2 +1,1 @@
-# MovieList_Android
-MovieList Description
+# Android-App-Development
